@@ -4,3 +4,5 @@ chickens3
 chicken4
 chicken5
 george the frog
+bandit
+tom
